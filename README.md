@@ -1,10 +1,13 @@
-# hey, eu sou Lucy? eu acho ✧
+# hey, eu sou Lucy (eu acho) ✧
 
-hobbyista de front-end fazendo projetos por diversão — gosto de interfaces escuras, tipografia monospace e HTML/CSS puro.
+hobbyista de front-end fazendo projetos por diversão — eu gosto de interfaces escuras, tipografia monospace e HTML/CSS puro.
+
+🎮 entusiasta da série Fallout e RPGs no geral  
+🎵 synthwave · jumpstyle · breakcore  
 
 ---
 
-## projetos simples
+## projetos
 
 ### ✧ [Cassino Zenith](https://github.com/Lucy7x/CASSINO-ZENITH)
 Cassino virtual que roda direto no navegador. Slots, roleta europeia, blackjack e craps — HTML, CSS e JavaScript puro com estética de terminal.
@@ -19,9 +22,19 @@ Site pessoal com presença do Discord em tempo real via Lanyard, players do Spot
 
 ## tecnologias
 
+**front-end**  
 ![HTML](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178c6)
+![SCSS](https://img.shields.io/badge/SCSS-0d0d0d?style=flat-square&logo=sass&logoColor=cc6699)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+
+**back-end & outros**  
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776ab)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=9b59b6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47a248)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
 
 ---
 
