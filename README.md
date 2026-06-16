@@ -1,6 +1,6 @@
 # hey, eu sou Lucy? eu acho ✧
 
-hobbyista de front-end fazendo projetos por diversão — gosto interfaces escuras, tipografia monospace e HTML/CSS puro.
+hobbyista de front-end fazendo projetos por diversão — gosto de interfaces escuras, tipografia monospace e HTML/CSS puro.
 
 ---
 
